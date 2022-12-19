@@ -96,5 +96,7 @@ Here are some ideas to get you started:
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=ArthrowAbstract&column=10&theme=gruvbox&no-frame=true"/>
 </details>
 
+<a href="https://app.daily.dev/arthrow"><img src="https://api.daily.dev/devcards/886a4aad55fb428a862658257266de73.png?r=ask" width="400" alt="Devanshu Sinha's Dev Card"/></a>
+
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
